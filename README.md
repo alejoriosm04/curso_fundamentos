@@ -33,6 +33,6 @@ We know that you want to give it a try to this interesting project without havin
 
 ## Developers - Contribute
 
-This project was develop by [Alejandro Ríos](https://github.com/alejoriosm04), [Jerónimo Guerrero](hhttps://github.com/JGuerrero08) and [Miguel Díaz](https://github.com/MADiazV1)
+This project was develop by [Alejandro Ríos](https://github.com/alejoriosm04), [Jerónimo Guerrero](https://github.com/JGuerrero08) and [Miguel Díaz](https://github.com/MADiazV1)
 
 If you want to contribute to this project, do not doubt in doing a Pull Request for this project. We will take a look at it.
