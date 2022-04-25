@@ -29,7 +29,7 @@ At the moment, if you close the program in the terminal, you will lose all the i
 
 ## How to test it?
 
-We know that you want to give it a try to this interesting project without having to download all these files and create a Java Environment. So, you can test it in [Replit](https://replit.com/~). Let us know your comments and opinions there!
+We know that you want to give it a try to this interesting project without having to download all these files and create a Java Environment. So, you can test it in [Replit](https://replit.com/@ariosm/Project-I) by clicking on the green button in the right corner of the splash screen. Let us know your comments and opinions there!
 
 ## Developers - Contribute
 
